@@ -1,0 +1,17 @@
+# Ignore backend dependencies
+backend/node_modules
+
+# Ignore frontend dependencies
+frontend/node_modules
+
+# Ignore frontend build output
+frontend/build
+
+# Ignore environment variables
+.env
+backend/.env
+frontend/.env
+
+# Ignore system files
+.DS_Store
+Thumbs.db
